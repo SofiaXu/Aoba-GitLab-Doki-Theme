@@ -11,3 +11,9 @@ Get Anime Girl in Your GitLab Page Background!
 1. Install a userscript manager
 2. [Click to Install](https://github.com/SofiaXu/Aoba-GitLab-Doki-Theme/blob/main/code.user.js)
 3. Set your domain before you use it. 
+
+## Settings
+Settings is in your GitLab preferences settings.
+
+## End
+Have fun!
